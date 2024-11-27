@@ -1,0 +1,121 @@
+(postprocess) PS C:\SuPreM\direct_inference\AbdomenAtlasDemoPredict2\BDMAP_00000006> python postprocessing_vertebrae.py
+Processing vertebrae_C1.nii.gz:
+Sizes of different components: [9213    2   62  142  416   28]
+Size of the largest component before morphology: 9213
+Size of the largest component after morphology: 9454
+
+Processing vertebrae_C2.nii.gz:
+Sizes of different components: [   16 12025     4    84     4     4    12]
+Size of the largest component before morphology: 12025
+Size of the largest component after morphology: 12317
+
+Processing vertebrae_C3.nii.gz:
+Sizes of different components: [6703   52    4   28]
+Size of the largest component before morphology: 6703
+Size of the largest component after morphology: 6867
+
+Processing vertebrae_C4.nii.gz:
+Sizes of different components: [7748    2    8    4]
+Size of the largest component before morphology: 7748
+Size of the largest component after morphology: 7948
+
+Processing vertebrae_C5.nii.gz:
+Sizes of different components: [6680]
+Size of the largest component before morphology: 6680
+Size of the largest component after morphology: 6888
+
+Processing vertebrae_C6.nii.gz:
+Sizes of different components: [7540    2    8]
+Size of the largest component before morphology: 7540
+Size of the largest component after morphology: 7779
+
+Processing vertebrae_C7.nii.gz:
+Sizes of different components: [11689]
+Size of the largest component before morphology: 11689
+Size of the largest component after morphology: 12008
+
+Processing vertebrae_L1.nii.gz:
+Sizes of different components: [28971    44]
+Size of the largest component before morphology: 28971
+Size of the largest component after morphology: 29747
+
+Processing vertebrae_L2.nii.gz:
+Sizes of different components: [31403]
+Size of the largest component before morphology: 31403
+Size of the largest component after morphology: 32329
+
+Processing vertebrae_L3.nii.gz:
+Sizes of different components: [37484]
+Size of the largest component before morphology: 37484
+Size of the largest component after morphology: 38478
+
+Processing vertebrae_L4.nii.gz:
+Sizes of different components: [38346     8     8]
+Size of the largest component before morphology: 38346
+Size of the largest component after morphology: 39246
+
+Processing vertebrae_L5.nii.gz:
+Sizes of different components: [37935     4     2    16     4     4]
+Size of the largest component before morphology: 37935
+Size of the largest component after morphology: 38754
+
+Processing vertebrae_T1.nii.gz:
+Sizes of different components: [14099     4]
+Size of the largest component before morphology: 14099
+Size of the largest component after morphology: 14345
+
+Processing vertebrae_T10.nii.gz:
+Sizes of different components: [24602]
+Size of the largest component before morphology: 24602
+Size of the largest component after morphology: 25273
+
+Processing vertebrae_T11.nii.gz:
+Sizes of different components: [25099     4     4     8    12    12]
+Size of the largest component before morphology: 25099
+Size of the largest component after morphology: 25771
+
+Processing vertebrae_T12.nii.gz:
+Sizes of different components: [    8 28283]
+Size of the largest component before morphology: 28283
+Size of the largest component after morphology: 29024
+
+Processing vertebrae_T2.nii.gz:
+Sizes of different components: [13233     4    12     4    38     8     8     6     4]
+Size of the largest component before morphology: 13233
+Size of the largest component after morphology: 13576
+
+Processing vertebrae_T3.nii.gz:
+Sizes of different components: [13214]
+Size of the largest component before morphology: 13214
+Size of the largest component after morphology: 13550
+
+Processing vertebrae_T4.nii.gz:
+Sizes of different components: [14286]
+Size of the largest component before morphology: 14286
+Size of the largest component after morphology: 14692
+
+Processing vertebrae_T5.nii.gz:
+Sizes of different components: [15375     8]
+Size of the largest component before morphology: 15375
+Size of the largest component after morphology: 15798
+
+Processing vertebrae_T6.nii.gz:
+Sizes of different components: [16606     4]
+Size of the largest component before morphology: 16606
+Size of the largest component after morphology: 17020
+
+Processing vertebrae_T7.nii.gz:
+Sizes of different components: [17911]
+Size of the largest component before morphology: 17911
+Size of the largest component after morphology: 18499
+
+Processing vertebrae_T8.nii.gz:
+Sizes of different components: [19901]
+Size of the largest component before morphology: 19901
+Size of the largest component after morphology: 20499
+
+Processing vertebrae_T9.nii.gz:
+Sizes of different components: [20681]
+Size of the largest component before morphology: 20681
+Size of the largest component after morphology: 21321
+
